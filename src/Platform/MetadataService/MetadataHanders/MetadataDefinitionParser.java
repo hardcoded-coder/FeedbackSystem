@@ -1,5 +1,7 @@
 package Platform.MetadataService.MetadataHanders;
 
+import com.sun.tools.internal.xjc.generator.annotation.spec.XmlAttachmentRefWriter;
+
 /**
  * Created by subratabiswas on 4/15/15.
  */
@@ -9,6 +11,7 @@ public class MetadataDefinitionParser {
     {
         //Read all folders from MetadataDefinition Folder
         //Generate Sql
+        //Need to handle xmls
         //Execute Sql
     }
 }
