@@ -1,0 +1,1 @@
+The responsibility of this folder is to keep all the application related services. Like creation of user, get feedback, provide feedback et.

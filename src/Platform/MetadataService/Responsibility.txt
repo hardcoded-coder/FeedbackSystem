@@ -1,0 +1,2 @@
+The Responsibility of this file is to keep all the metadata related servicei
+Checking out GIT
